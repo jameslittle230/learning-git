@@ -11,3 +11,5 @@ You should:
 - `git push` to push the branch
 - Make a pull request
 - a new line made by steven ~
+- Steven has sucessfully learned git
+  - computation time required: 690 days (September 19, 2018 - August 9, 2020)
